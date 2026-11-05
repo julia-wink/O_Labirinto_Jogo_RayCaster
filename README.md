@@ -1,4 +1,4 @@
-# O-Labritino_RayCaster
+# O Labirinto em RayCaster
 
 Jogo em estilo Wolfenstein 3D usando raycasting, em C++ com SFML 3.
 Projeto de estudo em andamento: estou evoluindo a base do tutorial para um jogo próprio. O jogo próprio consistirá em um labirinto no qual o jogador deverá escapar de um minitauro
