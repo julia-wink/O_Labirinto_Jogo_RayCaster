@@ -15,6 +15,7 @@ licenciado sob BSL-1.0. As alterações realizadas até o momento consistem em:
 - [x] Minimapa e movimentação com colisão
 - [ ] Criação da imagem do inimigo e paredes do mapa próprias
 - [ ] Criação do inimigo e movimentação
+- [ ] Dinamica de fases
 
 ## Controles
 - W / S: andar para frente / trás
